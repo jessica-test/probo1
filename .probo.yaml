@@ -1,0 +1,4 @@
+steps:
+  - name: Introduce Yourself to the World
+    plugin: Shell
+    command: 'echo "Hello World!"'
